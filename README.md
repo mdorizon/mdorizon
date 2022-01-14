@@ -25,11 +25,11 @@
 <img align="left" alt="GIT" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/git.png?raw=true" />
 <img align="left" alt="VSCODE" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/visual-studio.png?raw=true" />
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
-
+  
 <br /><br /><br />
-### Some Stats of my github:
+<h3 align="center">Some Stats of my github:</h3>
 
-<h2 align="center">
+<h3 align="center">
   <a href="https://github.com/maxencedorizon">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=maxencedorizon&show_icons=true&theme=onedark">
   </a>
