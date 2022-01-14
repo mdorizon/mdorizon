@@ -1,8 +1,10 @@
 
 ### My Socials Media:
 
-[<img align="left" alt="Waku | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Waku | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mail" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/gmail.png?raw=true" />][mail]
+[<img align="left" alt="Instagram" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/instagram.png?raw=true" />][instagram]
+[<img align="left" alt="Youtube" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/youtube.png?raw=true" />][youtube]
+[<img align="left" alt="Paypal" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/paypal.png?raw=true" />][paypal]
 
 <br />
 
@@ -30,11 +32,9 @@
   </a>
 </h2>
 
-<br /><br /><br />
 
 
-
-[youtube]: https://www.youtube.com/channel/UCRvpeMTrKoeyNn89-lh3iBg
+[mail]:
 [instagram]: https://www.instagram.com/maxou_kcdq/
-[vscode]: https://code.visualstudio.com/
-[website]: https://wakusay.fr/
+[youtube]: https://www.youtube.com/channel/UCRvpeMTrKoeyNn89-lh3iBg
+[paypal]: 
