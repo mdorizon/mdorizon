@@ -8,16 +8,10 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][website]
-
-
 <img align="left" alt="HTML" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
-<img align="left" alt="CSS" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
-<img align="left" alt="JS" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/js.png?raw=true" />
-<img align="left" alt="KOTLIN" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/Kotlin_Icon.svg.png?raw=true" />
+<img align="left" alt="CSS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
+<img align="left" alt="JS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/js.png?raw=true" />
+<img align="left" alt="KOTLIN" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/Kotlin_Icon.svg.png?raw=true" />
 
 
 <br />
