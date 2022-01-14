@@ -6,7 +6,7 @@
 
 ### Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
-[![Follow](https://img.shields.io/github/followers/maxencedorizon?color=inactive&label=Maxence%20Followers&logo=github&style=for-the-badge)](https://codestackr.com)
+[![Follow](https://img.shields.io/github/followers/maxencedorizon?color=inactive&label=Maxence%20Followers&logo=github&style=for-the-badge)](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fmaxencedorizon)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
