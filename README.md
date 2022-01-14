@@ -28,7 +28,7 @@
   
 <br /><br /><br />
 
-###Some Stats of my github:
+<h3 align="center">Some Stats of my github:</h3>
 
 <h3 align="center">
   <a href="https://github.com/maxencedorizon">
