@@ -1,3 +1,7 @@
+[mail]:
+[instagram]: https://www.instagram.com/maxou_kcdq/
+[youtube]: https://www.youtube.com/channel/UCRvpeMTrKoeyNn89-lh3iBg
+[paypal]: 
 
 ### My Socials Media:
 
@@ -31,10 +35,3 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxencedorizon&layout=compact&theme=onedark">
   </a>
 </h2>
-
-
-
-[mail]:
-[instagram]: https://www.instagram.com/maxou_kcdq/
-[youtube]: https://www.youtube.com/channel/UCRvpeMTrKoeyNn89-lh3iBg
-[paypal]: 
