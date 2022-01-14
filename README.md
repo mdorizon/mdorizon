@@ -27,7 +27,7 @@
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
   
 <br /><br /><br />
-<h3 align="center">Some Stats of my github:</h3>
+###Some Stats of my github:
 
 <h3 align="center">
   <a href="https://github.com/maxencedorizon">
