@@ -18,12 +18,7 @@
 <img align="left" alt="VSCODE" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/visual-studio.png?raw=true" />
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
+<br /><br /><br /><br />
 
 <h2 align="center">
   <a href="https://github.com/maxencedorizon">
