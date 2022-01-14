@@ -1,3 +1,5 @@
+[website]: https://vanezia.fr
+
 ### Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
 <br />
@@ -8,9 +10,9 @@
 ## I'm a French young developer!!
 
 - 🌱 I'm currently studying Kotlin and Java
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I'm looking to collaborate with other developers
+- 🥅 2022 Goals: Use github more than previous years
+- ⚡ Fun fact: I love digital art and photography
 
 ### Languages and Tools I use:
 
