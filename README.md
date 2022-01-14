@@ -15,10 +15,9 @@
 
 
 <img align="left" alt="HTML" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
-
-
-
-
+<img align="left" alt="CSS" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
+<img align="left" alt="JS" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/js.png?raw=true" />
+<img align="left" alt="KOTLIN" width="26px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/Kotlin_Icon.svg.png?raw=true" />
 
 
 <br />
