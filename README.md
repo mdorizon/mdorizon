@@ -1,9 +1,3 @@
-[mail]: #
-[instagram]: https://www.instagram.com/maxou_kcdq/
-[youtube]: https://www.youtube.com/channel/UCRvpeMTrKoeyNn89-lh3iBg
-[paypal]: # 
-[website]: #
-
 ### Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
 <br />
@@ -18,13 +12,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
-
-### My Socials Media:
-
-[<img align="left" alt="Waku | Mail" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/mail.png?raw=true" />][mail]
-[<img align="left" alt="Instagram" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/insta.png?raw=true" />][instagram]
-[<img align="left" alt="Youtube" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/youtube.png?raw=true" />][youtube]
-[<img align="left" alt="Paypal" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/paypal.png?raw=true" />][paypal]
 
 <br />
 
