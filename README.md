@@ -14,11 +14,14 @@
 <img align="left" alt="JS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/js.png?raw=true" />
 <img align="left" alt="NODEJS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/node-js.png" />
 <img align="left" alt="KOTLIN" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/Kotlin_Icon.svg.png?raw=true" />
-
 <img align="left" alt="GIT" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/git.png?raw=true" />
 <img align="left" alt="VSCODE" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/visual-studio.png?raw=true" />
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
 
+<br />
+<br />
+<br />
+<br />
 <br />
 <br />
 
