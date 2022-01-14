@@ -11,6 +11,7 @@
 <img align="left" alt="HTML" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
 <img align="left" alt="JS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/js.png?raw=true" />
+<img align="left" alt="JAVA" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/java.png?raw=true" />
 <img align="left" alt="KOTLIN" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/Kotlin_Icon.svg.png?raw=true" />
 
 
