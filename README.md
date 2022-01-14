@@ -5,7 +5,7 @@
 
 ### My Socials Media:
 
-[<img align="left" alt="Mail" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/mail.png?raw=true" />][mail]
+[<img align="left" alt="Waku | Mail" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/mail.png?raw=true" />][mail]
 [<img align="left" alt="Instagram" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/insta.png?raw=true" />][instagram]
 [<img align="left" alt="Youtube" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/youtube.png?raw=true" />][youtube]
 [<img align="left" alt="Paypal" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/paypal.png?raw=true" />][paypal]
