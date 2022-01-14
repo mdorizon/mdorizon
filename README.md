@@ -7,14 +7,14 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/maxencedorizon?color=inactive&label=Maxence%20Followers&logo=github&style=for-the-badge">
 
 
-## I'm a French young developer!!
+### I'm a French young developer!!
 
 - 🌱 I'm currently studying Kotlin and Java
 - 👯 I'm looking to collaborate with other developers
 - 🥅 2022 Goals: Use github more than previous years
 - ⚡ Fun fact: I love digital art and photography
 
-## Languages and Tools I use:
+### Languages and Tools I use:
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
@@ -27,7 +27,7 @@
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
 
 <br /><br /><br />
-## Some Stats of my github:
+### Some Stats of my github:
 
 <h2 align="center">
   <a href="https://github.com/maxencedorizon">
