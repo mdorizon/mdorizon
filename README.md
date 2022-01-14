@@ -13,8 +13,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
