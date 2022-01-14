@@ -5,15 +5,14 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/maxencedorizon?color=inactive&label=Maxence%20Followers&logo=github&style=for-the-badge">
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a French young developer!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I'm currently studying Kotlin and Java
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
-### Languages and Tools:
+### Languages and Tools I use:
 
 <img align="left" alt="HTML" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/html.png?raw=true" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/maxencedorizon/maxencedorizon/blob/main/imgs/css.png?raw=true" />
@@ -26,6 +25,7 @@
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/maxencedorizon/maxencedorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
 
 <br /><br /><br />
+### Some Stats of my github:
 
 <h2 align="center">
   <a href="https://github.com/maxencedorizon">
