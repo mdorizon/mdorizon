@@ -3,10 +3,6 @@
 
 <br />
 
-![](https://dcbadge.vercel.app/api/shield/966476175549558874)
-![](https://komarev.com/ghpvc/?username=mdorizono&color=0e75b6&style=for-the-badge)
-
-
 ### I'm a French young developer!!
 
 - 🌱 I'm currently studying Kotlin and Java
