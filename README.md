@@ -27,6 +27,6 @@
 
 <h3 align="center">Some Stats of my github:</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrotho&show_icons=true&theme=radical&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrotho&layout=compact&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true)
