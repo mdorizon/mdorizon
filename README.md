@@ -1,4 +1,5 @@
-![website](https://vanezia.fr)
+[website]: https://vanezia.fr
+
 ## Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
 <br />
