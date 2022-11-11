@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
-<br />
+<br>
 
 ### I'm a French young developer!!
 
@@ -23,13 +23,11 @@
 <img align="left" alt="VSCODE" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/visual-studio.png?raw=true" />
 <img align="left" alt="INTELLIJ" width="45px" src="https://raw.githubusercontent.com/mdorizon/mdorizon/main/imgs/IntelliJ_IDEA_Icon.svg.png" />
   
-<br /><br /><br />
+<br><br><br>
 
-<h3 align="center">Some Stats of my github:</h3>
+### Some Stats of my github:
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true)
-</div>
-<div align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true)
-</div>
