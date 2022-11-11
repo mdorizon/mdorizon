@@ -1,8 +1,10 @@
+
 ## Hi there, I'm Maxence - aka [Wakusay][website] 👋 
 
 <br />
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/maxencedorizon?color=inactive&label=Maxence%20Followers&logo=github&style=for-the-badge">
+![](https://dcbadge.vercel.app/api/shield/966476175549558874)
+![](https://komarev.com/ghpvc/?username=mdorizono&color=0e75b6&style=for-the-badge)
 
 
 ### I'm a French young developer!!
