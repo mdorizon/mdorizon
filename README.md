@@ -1,7 +1,7 @@
 [website]: https://mdorizon.fr
 
 ## Hi there, I'm Maxence - aka [Wakusay][website] 👋 
-<br>
+
 [![Website](https://img.shields.io/website?label=mdorizon.fr&style=for-the-badge&url=https%3A%2F%2Fmdorizon.fr)](https://mdorizon.fr)
 <br>
 
