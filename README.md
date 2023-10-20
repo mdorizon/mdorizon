@@ -15,7 +15,7 @@
 
 ### Languages and Tools I use:
 
-<img align="left" alt="HTML" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/html.png?raw=true" />
+<img align="left" alt="HTML" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/html-5.png?raw=true" />
 <img align="left" alt="CSS" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/css.png?raw=true" />
 <img align="left" alt="JAVA" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/java.png?raw=true" />
 <img align="left" alt="JS" width="45px" src="https://github.com/mdorizon/mdorizon/blob/main/imgs/js.png?raw=true" />
