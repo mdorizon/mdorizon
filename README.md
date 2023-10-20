@@ -6,12 +6,12 @@
 /!\ PORTFOLIO EN CRÉATION /!\\
 <br>
 
-### I'm a French young developer!!
+### I'm a French Web Development student at ESD BORDEAUX !
 
-- 🌱 I'm currently studying on web integration
+- 🌱 I'm currently studying web development
 - 👯 I'm looking to collaborate with other developers
-- 🥅 2023 Goals: Use github more than previous years
-- ⚡ Fun fact: I love digital art and photography
+- 🥅 2023 Goals: Create more project than previous years
+- ⚡ Founder of Vanezia, minecraft semi-rp server
 
 ### Languages and Tools I use:
 
