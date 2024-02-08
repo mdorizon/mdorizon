@@ -8,8 +8,8 @@
 ### I'm a French Web Development student at ESD BORDEAUX !
 
 - 🌱 I'm currently studying web development
-- 👯 I'm looking to collaborate with other developers
-- 🥅 2023 Goals: Create more project than previous years
+- 🦖 deepen my knowledge in development
+- 🥅 2024 Goals: Create more & more projects
 - ⚡ Founder of Vanezia, minecraft semi-rp server
 
 ### Languages and Tools I use:
