@@ -30,4 +30,4 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true&card_width=445)
 <br/>
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdorizon&layout=compact&langs_count=12&theme=radical)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdorizon&layout=compact&langs_count=12&theme=radical&v=2)
