@@ -10,7 +10,7 @@
 - 🌱 I'm currently studying web development
 - 🦖 deepen my knowledge in development
 - 🥅 2024 Goals: Create more & more projects
-- ⚡ Founder of Vanezia, minecraft semi-rp server
+- ⚡ Founder of Hevonia, minecraft semi-rp server
 
 ### Languages and Tools I use:
 
