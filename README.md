@@ -14,7 +14,7 @@
 ## My stats⚡️
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true&card_width=445)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true&card_width=445&exclude_repo=jessica_aroztegui,EVA_VR_LANDING,foodies-landing-training,PARTIEL-B1-DEVWEB-S1-2122,travee-landing-training)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true&card_width=445&exclude_repo=jessica_aroztegui)
 <br/>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mdorizon&layout=compact&langs_count=12&theme=radical&v=2)
 
