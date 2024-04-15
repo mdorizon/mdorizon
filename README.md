@@ -7,7 +7,7 @@
 - 🌱 I'm currently studying web development
 - 🦖 deepen my knowledge in development
 - 🥅 2024 Goals: Create more & more projects
-- ⚡ Founder of Hevonia, minecraft semi-rp server
+- ⚡ currently rebuilding my portfolio in nextjs
   
 <br>
 
