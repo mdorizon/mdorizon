@@ -7,7 +7,7 @@
 - 🌱 I'm currently studying web development
 - 🦖 deepen my knowledge in development
 - 🥅 2024 Goals: Create more & more projects
-- ⚡ currently rebuilding my portfolio in nextjs
+- ⚡ currently working on a server hosting service
   
 <br>
 
