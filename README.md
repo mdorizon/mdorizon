@@ -7,7 +7,7 @@
 
 - 🌱 **Currently Learning**: Deepening my web development skills.  
 - ⚡ **Working on**: A server hosting service and various personal projects.  
-- 🥅 **Goals for 2024**: Build, learn, and grow through new challenges.  
+- 🥅 **Goals for 2025**: Build, learn, and grow through new challenges.  
 - 💬 **Fun Fact**: I love solving coding puzzles and experimenting with new tech stacks.  
   
 ---
