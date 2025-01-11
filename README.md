@@ -3,12 +3,23 @@
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me
 
-- 🌱 **Currently Learning**: Deepening my web development skills.  
-- ⚡ **Working on**: A server hosting service and various personal projects.  
-- 🥅 **Goals for 2025**: Build, learn, and grow through new challenges.  
-- 💬 **Fun Fact**: I love solving coding puzzles and experimenting with new tech stacks.  
+**🌱 Currently Learning:** <br/>
+Deepening my full-stack skills with React for front-end and NestJS for back-end development.
+Exploring Go to dive deeper into decentralized systems, especially for my file hosting project leveraging IPFS.
+Learning Java to create plugins for Minecraft, combining my love for gaming with my passion for development.
+
+**⚡ Working on:** <br/>
+- My web hosting company, SwiftHeberg, where I aim to deliver reliable and innovative hosting solutions.
+- A file hosting project powered by IPFS, focused on decentralization and secure file storage.
+
+**🎮 Fun Fact:** <br/>
+I enjoy creating and experimenting with gaming communities, like working on Minecraft servers and plugins.
+
+**🥅 Goals for 2025:** <br/>
+Master Next.js and NestJS to build modern, scalable applications.
+Expand my knowledge of Go and Java to open new opportunities for personal and professional projects.
   
 ---
 
