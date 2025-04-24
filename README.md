@@ -1,7 +1,4 @@
 # Hi there, I'm Maxence - aka [Wakusay](https://mdorizon.fr) 👋  
-[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mdorizon.fr)  
-
----
 
 ### 👨‍💻 About Me
 
