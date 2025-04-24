@@ -64,5 +64,3 @@ Expand my knowledge of Go and Java to open new opportunities for personal and pr
 
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mdorizon.fr)  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdorizon) 
-
----
