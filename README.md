@@ -2,21 +2,28 @@
 
 ### 👨‍💻 About Me
 
-**🌱 Currently Learning:** <br/>
-Deepening my full-stack skills with React for front-end and NestJS for back-end development.
-Exploring Go to dive deeper into decentralized systems, especially for my file hosting project leveraging IPFS.
-Learning Java to create plugins for Minecraft, combining my love for gaming with my passion for development.
+**🚀 Currently Working on:**  
+Building **SwiftHeberg**, my web, cloud & gaming hosting company focused on European digital sovereignty and eco-responsibility. The project aims to provide a modern, accessible alternative to traditional hosting providers for gamers, developers, and small businesses.
 
-**⚡ Working on:** <br/>
-- My web hosting company, SwiftHeberg, where I aim to deliver reliable and innovative hosting solutions.
-- A file hosting project powered by IPFS, focused on decentralization and secure file storage.
+**2026 Roadmap:**
+- Finalizing the UI/UX design by March 10th
+- Developing the full platform (Next.js + NestJS + Strapi) to replace our current WHMCS setup
+- Launching the complete solution by end of September
+- Integrating Coolify & Pterodactyl APIs for automated service provisioning
 
-**🎮 Fun Fact:** <br/>
-I enjoy creating and experimenting with gaming communities, like working on Minecraft servers and plugins.
+**🌱 Currently Learning:**  
+- Deepening my full-stack expertise with **Next.js** and **NestJS**
+- Exploring **Java** for potential Minecraft plugin development
+- Diving into cloud technologies, networking, and virtualization to strengthen SwiftHeberg's infrastructure
 
-**🥅 Goals for 2025:** <br/>
-Master Next.js and NestJS to build modern, scalable applications.
-Expand my knowledge of Go and Java to open new opportunities for personal and professional projects.
+**💼 Professional Life:**  
+- **Junior Developer** & **SwiftHeberg Co-Founder**
+- Balancing my studies in **Web development** with my entrepreneurial journey
+
+**🥅 Goals for 2026:**  
+- Successfully launch SwiftHeberg's new platform and scale the business
+- Master cloud infrastructure, networking, and virtualization concepts
+- Continue my engineering studies while growing as both a developer and entrepreneur
   
 ---
 
