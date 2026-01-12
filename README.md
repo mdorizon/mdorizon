@@ -28,9 +28,9 @@ Building **SwiftHeberg**, my web, cloud & gaming hosting company focused on Euro
 ---
 
 ### 📊 My GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true&card_width=445)
+![Anurag's GitHub stats](https://readme-stats-fast.vercel.app/api?username=mdorizon&show_icons=true&theme=radical&count_private=true&card_width=445\&rank_icon=percentile\&hide=stars,contribs\&show=reviews)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true&card_width=445&exclude_repo=jessica_aroztegui)
+![Top Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=mdorizon&layout=compact&theme=radical&count_private=true&card_width=445)
 
 ---
 
