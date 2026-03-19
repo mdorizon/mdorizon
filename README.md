@@ -6,7 +6,7 @@
 Building **SwiftHeberg**, my web, cloud & gaming hosting company focused on European digital sovereignty and eco-responsibility. The project aims to provide a modern, accessible alternative to traditional hosting providers for gamers, developers, and small businesses.
 
 **2026 Roadmap:**
-- [ ] Finalizing the UI/UX design by March 10th
+- [x] Finalizing the UI/UX design by March 10th
 - [ ] Developing the full platform (Next.js + NestJS + Strapi) to replace our current WHMCS setup
 - [ ] Launching the complete solution by end of September
 - [ ] Integrating Coolify & Pterodactyl APIs for automated service provisioning
