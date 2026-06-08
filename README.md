@@ -1,29 +1,37 @@
-# Hi there, I'm Maxence - aka [Wakusay](https://mdorizon.fr) 👋  
+# Hi there, I'm Maxence aka [Wakusay](https://mdorizon.fr) 👋
+ 
+> Full-stack developer pivoting to **cybersecurity** - focused on infrastructure security, hardening & DevSecOps.
 
 ### 👨‍💻 About Me
+ 
+- 🔐 Building a security-first profile: from writing code to **hardening the infrastructure that runs it**.
+- 🎓 Joining the **Master's in Cybersecurity** at Sup de Vinci Bordeaux in **October 2026** // currently looking for a work-study placement (alternance) in the field.
+- 🌍 Founder & operator of **[SwiftHeberg](https://swiftheberg.com)** - a European web, cloud & gaming hosting platform, and my real-world playground for hardening, monitoring and vulnerability management.
+- 🧰 Comfortable across the stack (Node.js / TypeScript / PHP) and increasingly at home in the terminal (Linux, networking, virtualization).<br/>
+<br/>
 
-**🚀 Currently Working on:**  
-Building **SwiftHeberg**, my web, cloud & gaming hosting company focused on European digital sovereignty and eco-responsibility. The project aims to provide a modern, accessible alternative to traditional hosting providers for gamers, developers, and small businesses.
+**🗺️ SwiftHeberg Roadmap:**
+- [x] Finalize the UI/UX design
+- [x] Launch SwiftHeberg (Beta now live)
+- [x] Fully migrate from WHMCS to the custom platform (Next.js + NestJS)
+- [ ] Automate service provisioning via the Pelican and other APIs
+- [ ] Harden & scale the infrastructure (segmentation, monitoring, continuous patching)
 
-**2026 Roadmap:**
-- [x] Finalizing the UI/UX design by March 10th
-- [ ] Developing the full platform (Next.js + NestJS + Strapi) to replace our current WHMCS setup
-- [ ] Launching the complete solution by end of September
-- [ ] Integrating Coolify & Pterodactyl APIs for automated service provisioning
+<br/>
 
-**🌱 Currently Learning:**  
-- Deepening my full-stack expertise with **Next.js** and **NestJS**
-- Exploring **Java** for potential Minecraft plugin development
-- Diving into cloud technologies, networking, and virtualization to strengthen SwiftHeberg's infrastructure
+**🌱 Currently learning:**
+- Blue Team fundamentals via the **TryHackMe** Security Engineer path (heading toward DevSecOps)
+- Network security, segmentation and infrastructure hardening
+- Virtualization & cloud infrastructure (Proxmox, Docker)
+- **Java**, to go deeper into application security and code review
 
-**💼 Professional Life:**  
-- **Junior Developer** & **SwiftHeberg Co-Founder**
-- Balancing my studies in **Web development** with my entrepreneurial journey
+<br/>
 
-**🥅 Goals for 2026:**  
-- Successfully launch SwiftHeberg's new platform and scale the business
-- Master cloud infrastructure, networking, and virtualization concepts
-- Continue my engineering studies while growing as both a developer and entrepreneur
+**🎯 Goals for 2026:**
+- Land a **cybersecurity alternance** starting in October
+- Begin the Master's in Cybersecurity and build a profile that bridges **dev and security**
+- Grow SwiftHeberg with a sovereignty-first, security-first approach
+- Strengthen my Blue Team / DevSecOps skillset on real systems
   
 ---
 
